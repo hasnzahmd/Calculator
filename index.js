@@ -70,6 +70,7 @@ Array.from(buttons).forEach( (button) => {
     })
 })
 
+
 var btns = document.querySelectorAll(".button");
 btns.forEach((button) => {
     button.addEventListener("click", function() {
